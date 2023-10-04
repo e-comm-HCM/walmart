@@ -1,4 +1,3 @@
 Hello
 Good evening
-Nice Job
-Congragulations
+Welcome to my first class
