@@ -1,3 +1,3 @@
 Hello
 Good evening
-Welcome to my first class
+Welcome to my second class
